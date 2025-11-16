@@ -31,7 +31,7 @@ The extension automatically:
 The extension injects a full RTL CSS layer that:
 - Forces RTL direction  
 - Aligns text to the right  
-- Applies Arabic-friendly fonts Noto Naskh Arabic
+- Applies Arabic-friendly fonts **Noto Naskh Arabic**
 - Keeps code blocks, tables, and inline code LTR  
 
 ---
