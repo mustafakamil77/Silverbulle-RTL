@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "RTL Silverbulle",
+  "version": "1.0",
+  "description": "Fix Silverbulle RTL manually or automatically on selected websites.",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage",
+    "<all_urls>"
+  ],
+  "browser_action": {
+    "default_title": "Apply RTL Fix",
+    "default_icon": {
+    "16": "icons/icon_16.png",
+    "48": "icons/icon_48.png",
+    "128": "icons/icon_128.png"
+  }
+},
+"icons": {
+  "16": "icons/icon_16.png",
+  "48": "icons/icon_48.png",
+  "128": "icons/icon_128.png"
+},
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "options_ui": {
+    "page": "options.html",
+    "browser_style": true
+  }
+}
