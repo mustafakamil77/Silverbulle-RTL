@@ -1,6 +1,6 @@
 # Fix RTL Silverbulle (Firefox Extension)
 
-A Firefox extension that automatically fixes Silverbulle RTL (Right-To-Left) rendering issues for Arabic text in editors such as SilverBullet, CodeMirror, Markdown viewers, and general web content.
+A Firefox extension that automatically fixes Silverbulle RTL (Right-To-Left) rendering issues for Arabic text in editors such as SilverBullet.
 
 The extension allows you to:
 
