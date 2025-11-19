@@ -41,3 +41,4 @@ The extension injects a full RTL CSS layer that:
 To install the extension manually in Firefox:
 
 1. Open Firefox and visit:  
+https://addons.mozilla.org/en-US/firefox/addon/rtl-silverbulle/
